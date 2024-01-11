@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:focus,
+button:hover {
+  outline: 4px auto gray;
+}
